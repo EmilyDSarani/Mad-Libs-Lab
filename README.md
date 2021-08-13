@@ -9,3 +9,31 @@
 8) Consider your data model. What objects will you be using? What are the key/value pairs? What arrays do you need? What needs to live in local storage?
 9) Consider what features _depend_ on what other features. Use this dependency logic to figure out what order to complete tasks.
 
+Song:
+I smoke(verb) two(number) joints(noun) in the morning,
+I smoke two joints at night,
+I smoke two joints in the afternoon,
+It makes me feel all right.
+I smoke two joints in time of peace,
+And two in time of war.
+I smoke two joints before I smoke two joints,
+And then I smoke two more.
+
+HTML:
+4 sections
+-Title
+-Instructions
+-Entries
+-Lyrics
+Need a button x1
+Need a form? Place to write stuff, box friends.. x3
+Need ID's
+Need Classes
+
+Javascript:
+Button Click
+Get Ele by ID
+Take whatever the element is and then have it pull the 'div' from the lyrics and change it into whatver the user inserts as their verb, number, and noun. 
+
+CSS: 
+Hidden
